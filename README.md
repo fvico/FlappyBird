@@ -1,2 +1,2 @@
 # FlappyBird
- My-Clone.FlappyBierd
+ My-Clone-FlappyBird
